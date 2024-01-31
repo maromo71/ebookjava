@@ -29,7 +29,7 @@ Cada diretório neste repositório corresponde a um capítulo do livro:
 
 
 ### Instruções
-Dentro de cada diretório, você encontrará os códigos de exemplos e exercícios mencionados no livro, cuidadosamente comentados e prontos para serem explorados.
+Em cada diretório relacionado aos tópicos do livro, você descobrirá códigos de exemplo e exercícios minuciosamente elaborados e extensivamente comentados, prontos para uma imersão profunda e enriquecedora. Para assegurar uma experiência de aprendizado completa e sem obstáculos, todas as informações adicionais que considerei cruciais foram inseridas no arquivo Readme.md de cada capítulo. Recomendo enfaticamente que, antes de se dedicar à resolução dos exercícios, reserve um momento para consultar o arquivo Leia-me (Readme.md) do capítulo correspondente. Essa prática irá enriquecer seu entendimento e prepará-lo adequadamente para as atividades propostas.
 
 ## Como Usar
 Clone o Repositório:
