@@ -1,6 +1,6 @@
 # Desmistificando Java: Usando na Prática
 
-<p style="text-align: center">
+<p align="center">
   <img src="images/capa_ebook.png" style="width: 50%">
 </p>
 
