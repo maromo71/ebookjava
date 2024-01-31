@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cap_06.iml" filepath="$PROJECT_DIR$/.idea/cap_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio01_simulaDeadlock/exercicio01_simulaDeadlock.iml" filepath="$PROJECT_DIR$/exercicio01_simulaDeadlock/exercicio01_simulaDeadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio01_tratamento/exercicio01_tratamento.iml" filepath="$PROJECT_DIR$/exercicio01_tratamento/exercicio01_tratamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio02_excecoesPersonalizadas/exercicio02_excecoesPersonalizadas.iml" filepath="$PROJECT_DIR$/exercicio02_excecoesPersonalizadas/exercicio02_excecoesPersonalizadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio02_resolucaoDeadlock/exercicio02_resolucaoDeadlock.iml" filepath="$PROJECT_DIR$/exercicio02_resolucaoDeadlock/exercicio02_resolucaoDeadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio03_blocoFinally/exercicio03_blocoFinally.iml" filepath="$PROJECT_DIR$/exercicio03_blocoFinally/exercicio03_blocoFinally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio04_propagacaoException/exercicio04_propagacaoException.iml" filepath="$PROJECT_DIR$/exercicio04_propagacaoException/exercicio04_propagacaoException.iml" />
+    </modules>
+  </component>
+</project>
