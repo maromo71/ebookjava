@@ -1,6 +1,8 @@
 # Desmistificando Java: Usando na Prática
 
-![Capa do Livro](images/capa_ebook.png){:width="30%"}
+<p style="text-align: center">
+  <img src="images/capa_ebook.png" style="width: 50%">
+</p>
 
 Bem-vindo ao repositório oficial do livro "Desmistificando Java: Usando na Prática", escrito pelo Prof. Marcos Roberto de Moraes, também conhecido como Maromo. Este repositório contém todos os códigos de exemplos e exercícios propostos no livro, organizados por capítulos para facilitar o acesso e a aprendizagem.
 
