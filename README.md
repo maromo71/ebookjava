@@ -10,8 +10,6 @@ Bem-vindo ao repositório oficial do livro "Desmistificando Java: Usando na Prá
 Cada diretório neste repositório corresponde a um capítulo do livro:
 
 ### Capítulos
-GPT
-Claro, vou ajustar a estrutura dos capítulos para incluir um ícone após a menção de cada capítulo:
 
 * Capítulo 01: ☕ - Fundamentos Java, instalação e configuração.
 * Capítulo 02: 💻 - Sintaxe Básica de Java
