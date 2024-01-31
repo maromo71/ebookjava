@@ -48,7 +48,7 @@ Contribuições para este repositório são bem-vindas. Se você tem ideias ou c
 ## Sobre o Autor
 Prof. Marcos Roberto de Moraes, apelidado carinhosamente de Maromo, é um experiente educador e entusiasta de Java. Com anos de experiência no ensino de programação, Maromo dedicou-se a criar este recurso valioso para ajudar alunos e leitores a dominar Java de maneira prática e eficaz.
 
-Suporte
+## Suporte
 Se você tiver dúvidas ou precisar de ajuda com os códigos deste repositório, sinta-se à vontade para abrir uma issue aqui no GitHub.
 
 ## Mantenha-se Conectado
