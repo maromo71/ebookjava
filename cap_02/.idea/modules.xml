@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cap_02.iml" filepath="$PROJECT_DIR$/.idea/cap_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for_somadosnumeros/for_somadosnumeros.iml" filepath="$PROJECT_DIR$/for_somadosnumeros/for_somadosnumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for_tabuada/for_tabuada.iml" filepath="$PROJECT_DIR$/for_tabuada/for_tabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if01_maioridade/if01_maioridade.iml" filepath="$PROJECT_DIR$/if01_maioridade/if01_maioridade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_avaliacaodenotas/if_avaliacaodenotas.iml" filepath="$PROJECT_DIR$/if_avaliacaodenotas/if_avaliacaodenotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch_diadasemana/switch_diadasemana.iml" filepath="$PROJECT_DIR$/switch_diadasemana/switch_diadasemana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch_estacoesano/switch_estacoesano.iml" filepath="$PROJECT_DIR$/switch_estacoesano/switch_estacoesano.iml" />
+    </modules>
+  </component>
+</project>
