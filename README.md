@@ -1,5 +1,5 @@
 <h1 align="center"> Desmistificando Java: Usando na Prática</h1>
-<hr>
+
 <p align="center">
   <img src="images/capa_ebook.png" style="width: 50%">
 </p>
