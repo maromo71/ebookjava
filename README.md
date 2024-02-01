@@ -42,8 +42,8 @@ Execute e Modifique os Códigos:
 
 Experimente executar os códigos em seu ambiente de desenvolvimento Java.
 Sinta-se à vontade para modificar e brincar com os códigos para entender melhor os conceitos.
-Contribuições
-Contribuições para este repositório são bem-vindas. Se você tem ideias ou correções que enriquecem o material, não hesite em fazer um pull request. Sua participação é valiosa para nós!
+## Contribuições
+Contribuições para este repositório são bem-vindas. **Se você tem ideias ou correções** que enriquecem o material, não hesite em fazer um **pull request**. Sua participação é valiosa para nós!
 
 ## Sobre o Autor
 Prof. Marcos Roberto de Moraes, apelidado carinhosamente de Maromo, é um experiente educador e entusiasta de Java. Com anos de experiência no ensino de programação, Maromo dedicou-se a criar este recurso valioso para ajudar alunos e leitores a dominar Java de maneira prática e eficaz.
